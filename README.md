@@ -123,6 +123,5 @@ nome do serviço (por exemplo, o PHP se conecta ao banco usando o hostname
 
 ## Autores
 
-- [Aline Eduarda Morais de Rezende]
 - [Arthur Antunes de Oliveira]
 - [Mihari Barbosa da Silva]
